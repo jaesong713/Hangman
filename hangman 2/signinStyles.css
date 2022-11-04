@@ -1,0 +1,32 @@
+body{
+	background-color: #7798AB;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	flex-direction: column;
+}
+
+*{
+	font-family: cursive;, serif;
+	box-sizing: padding-box;
+}
+
+#form{
+	width: 80%;
+	border: 3px solid #0D1B1E;
+	padding: 20px;
+	background-color: #C3DBC5;
+	border-radius: 20px;
+}
+
+h2{
+	text-align: center;
+	margin-bottom: 40px;
+}
+
+input{
+	display: block;
+	border: 2px solid #E8DCB9;
+	d
+}

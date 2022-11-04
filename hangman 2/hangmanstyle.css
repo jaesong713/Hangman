@@ -1,0 +1,75 @@
+.letterstyle {
+    border: 5px dimgrey;
+    border-style: inset outset inset outset;
+    background: snow;
+    align-content: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    border-radius: 10px;
+}
+
+.headerhang {
+    text-align: center;
+    font-family: Times New Roman;
+    text-shadow: 3px 3px lightskyblue;
+    border: 5px dimgrey;
+    border-style: outset inset outset inset;
+    padding: 3px;
+    border-radius: 10px;
+    background: snow;
+}
+
+.header2hang {
+    text-align: center;
+    font-family: Times New Roman;
+    text-shadow: 2px 2px lightskyblue;
+    border: 5px dimgrey;
+    border-style: outset inset outset inset;
+    border-radius: 10px;
+    padding: 2px;
+    background: snow;
+}
+
+#difficultyhead {
+    text-align: center;
+    font-family: Times New Roman;
+    text-shadow: 2px 2px lightskyblue;
+}
+
+.half1 {
+    width: 48.5%;
+    border: 5px inset dimgrey;
+    float: left;
+    border-radius: 8px;
+    background: snow;
+}
+
+.half2 {
+    width: 48.5%;
+    border: 5px inset dimgrey;
+    float: right;
+    border-radius: 8px;
+    background: snow;
+}
+
+.fixing {
+    position: fixed;
+}
+
+.justCenter {
+    text-align: center;
+}
+
+.win {
+    font-size: 150px;
+    color: lawngreen;
+    text-shadow: 10px 10px black;
+    font-family: Garamond;
+    text-align: center;
+}
+
+img {
+    width: 100px;
+}
